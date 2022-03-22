@@ -1,0 +1,23 @@
+{
+  "pins" : [
+    {
+      "identity" : "dlog",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/ikhvorost/DLog.git",
+      "state" : {
+        "revision" : "975611924f7c3973c79932707fb2fdb2d5cf8955",
+        "version" : "1.1.0"
+      }
+    },
+    {
+      "identity" : "hypertrace-ios-sdk",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/hyperjumptech/hypertrace-ios-sdk",
+      "state" : {
+        "revision" : "aaea2798ca8db5f4f225bd829aac5738982fcc35",
+        "version" : "1.0.0"
+      }
+    }
+  ],
+  "version" : 2
+}
